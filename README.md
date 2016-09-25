@@ -10,8 +10,8 @@ Simplifies entry of programming-related characters on macOS.
 
 | Character | Key combination | Keyboard layout | Download                      |
 | --------- | --------------- | --------------- | --------                      |
-| `         | `⌥ä`            | et              | [Insert backtick.kmmacros][1] |
-| ^         | `⌥õ`            | et              | [Insert caret.kmmacros][2]    |
+| `         | ⌥ä              | et              | [Insert backtick.kmmacros][1] |
+| ^         | ⌥õ              | et              | [Insert caret.kmmacros][2]    |
 
 ## Licence
 
