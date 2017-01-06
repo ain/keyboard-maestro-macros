@@ -2,7 +2,7 @@
 
 Simplifies entry of programming-related characters on macOS.
 
-## Rquirements
+## Requirements
 
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 
