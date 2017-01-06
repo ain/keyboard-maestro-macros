@@ -15,7 +15,7 @@ Simplifies entry of programming-related characters on macOS.
 
 ## Licence
 
-Copyright © 2016 Ain Tohvri. Licenced under [GPL-3](LICENSE).
+Copyright © 2017 Ain Tohvri. Licenced under [GPL-3](LICENSE).
 
 [1]: https://raw.githubusercontent.com/ain/keyboard-maestro-macros/master/Insert%20backtick.kmmacros
 [2]: https://raw.githubusercontent.com/ain/keyboard-maestro-macros/master/Insert%20caret.kmmacros
