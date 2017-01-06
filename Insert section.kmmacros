@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>505351829.177118</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ByTyping</string>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>§</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>505352470.36767101</real>
+				<key>ModificationDate</key>
+				<real>505353569.42426598</real>
+				<key>Name</key>
+				<string>Insert section</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>35</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>2048</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>FF347470-D8FC-42E3-9685-5E4C5967FE3F</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Global Macro Group</string>
+		<key>ToggleMacroUID</key>
+		<string>EA5F2669-57EE-4AA1-A817-3C67E4AA2F92</string>
+		<key>UID</key>
+		<string>5057CACD-6935-41F5-9A21-71EBF31CE877</string>
+	</dict>
+</array>
+</plist>
