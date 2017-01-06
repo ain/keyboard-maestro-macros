@@ -6,7 +6,7 @@
 		<key>Activate</key>
 		<string>Normal</string>
 		<key>CreationDate</key>
-		<real>496493305.49537599</real>
+		<real>505351829.177118</real>
 		<key>Macros</key>
 		<array>
 			<dict>
@@ -24,7 +24,7 @@
 				<key>CreationDate</key>
 				<real>496493588.05097002</real>
 				<key>ModificationDate</key>
-				<real>496493849.67786503</real>
+				<real>505352600.07858801</real>
 				<key>Name</key>
 				<string>Insert backtick</string>
 				<key>Triggers</key>
@@ -33,7 +33,7 @@
 						<key>FireType</key>
 						<string>Pressed</string>
 						<key>KeyCode</key>
-						<integer>39</integer>
+						<integer>30</integer>
 						<key>MacroTriggerType</key>
 						<string>HotKey</string>
 						<key>Modifiers</key>
@@ -47,9 +47,9 @@
 		<key>Name</key>
 		<string>Global Macro Group</string>
 		<key>ToggleMacroUID</key>
-		<string>08ABC0BE-F0FF-4209-B777-899C7835B06F</string>
+		<string>EA5F2669-57EE-4AA1-A817-3C67E4AA2F92</string>
 		<key>UID</key>
-		<string>44BA1774-682C-45FE-A986-B1472F4763BC</string>
+		<string>5057CACD-6935-41F5-9A21-71EBF31CE877</string>
 	</dict>
 </array>
 </plist>
