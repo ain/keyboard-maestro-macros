@@ -24,7 +24,7 @@
 				<key>CreationDate</key>
 				<real>496493588.05097002</real>
 				<key>ModificationDate</key>
-				<real>505352600.07858801</real>
+				<real>505613842.74845397</real>
 				<key>Name</key>
 				<string>Insert backtick</string>
 				<key>Triggers</key>
@@ -33,7 +33,7 @@
 						<key>FireType</key>
 						<string>Pressed</string>
 						<key>KeyCode</key>
-						<integer>30</integer>
+						<integer>39</integer>
 						<key>MacroTriggerType</key>
 						<string>HotKey</string>
 						<key>Modifiers</key>

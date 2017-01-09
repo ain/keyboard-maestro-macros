@@ -24,7 +24,7 @@
 				<key>CreationDate</key>
 				<real>496493915.38107598</real>
 				<key>ModificationDate</key>
-				<real>505353388.81692803</real>
+				<real>505613845.89293897</real>
 				<key>Name</key>
 				<string>Insert caret</string>
 				<key>Triggers</key>
@@ -33,7 +33,7 @@
 						<key>FireType</key>
 						<string>Pressed</string>
 						<key>KeyCode</key>
-						<integer>39</integer>
+						<integer>30</integer>
 						<key>MacroTriggerType</key>
 						<string>HotKey</string>
 						<key>Modifiers</key>
